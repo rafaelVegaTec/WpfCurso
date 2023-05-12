@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\bin\Debug\net7.0\StructuredProgramingExample.exe
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\bin\Debug\net7.0\StructuredProgramingExample.deps.json
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\bin\Debug\net7.0\StructuredProgramingExample.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\bin\Debug\net7.0\StructuredProgramingExample.dll
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\bin\Debug\net7.0\StructuredProgramingExample.pdb
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\obj\Debug\net7.0\StructuredProgramingExample.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\obj\Debug\net7.0\StructuredProgramingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\obj\Debug\net7.0\StructuredProgramingExample.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\obj\Debug\net7.0\StructuredProgramingExample.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\obj\Debug\net7.0\StructuredProgramingExample.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\obj\Debug\net7.0\StructuredProgramingExample.dll
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\obj\Debug\net7.0\refint\StructuredProgramingExample.dll
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\obj\Debug\net7.0\StructuredProgramingExample.pdb
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\obj\Debug\net7.0\StructuredProgramingExample.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\StructuredProgramingExampleSol\StructuredProgramingExample\obj\Debug\net7.0\ref\StructuredProgramingExample.dll
