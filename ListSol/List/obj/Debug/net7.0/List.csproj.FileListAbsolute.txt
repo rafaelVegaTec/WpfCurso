@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\bin\Debug\net7.0\List.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\bin\Debug\net7.0\List.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\bin\Debug\net7.0\List.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\bin\Debug\net7.0\List.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\bin\Debug\net7.0\List.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\obj\Debug\net7.0\List.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\obj\Debug\net7.0\List.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\obj\Debug\net7.0\List.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\obj\Debug\net7.0\refint\List.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\obj\Debug\net7.0\List.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\obj\Debug\net7.0\List.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListSol\List\obj\Debug\net7.0\ref\List.dll
