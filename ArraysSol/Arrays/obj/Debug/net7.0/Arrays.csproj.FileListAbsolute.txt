@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\bin\Debug\net7.0\Arrays.exe
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\bin\Debug\net7.0\Arrays.deps.json
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\bin\Debug\net7.0\Arrays.dll
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\bin\Debug\net7.0\Arrays.pdb
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\obj\Debug\net7.0\Arrays.dll
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\obj\Debug\net7.0\Arrays.pdb
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\ArraysSol\Arrays\obj\Debug\net7.0\ref\Arrays.dll
