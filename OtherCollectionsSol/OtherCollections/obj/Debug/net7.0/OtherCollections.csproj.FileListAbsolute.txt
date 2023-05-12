@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\bin\Debug\net7.0\OtherCollections.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\bin\Debug\net7.0\OtherCollections.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\bin\Debug\net7.0\OtherCollections.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\bin\Debug\net7.0\OtherCollections.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\bin\Debug\net7.0\OtherCollections.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\obj\Debug\net7.0\OtherCollections.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\obj\Debug\net7.0\OtherCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\obj\Debug\net7.0\OtherCollections.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\obj\Debug\net7.0\OtherCollections.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\obj\Debug\net7.0\OtherCollections.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\obj\Debug\net7.0\OtherCollections.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\obj\Debug\net7.0\refint\OtherCollections.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\obj\Debug\net7.0\OtherCollections.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\obj\Debug\net7.0\OtherCollections.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\OtherCollectionsSol\OtherCollections\obj\Debug\net7.0\ref\OtherCollections.dll

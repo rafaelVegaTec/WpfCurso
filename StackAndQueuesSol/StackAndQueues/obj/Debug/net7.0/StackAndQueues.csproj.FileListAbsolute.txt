@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\bin\Debug\net7.0\StackAndQueues.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\bin\Debug\net7.0\StackAndQueues.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\bin\Debug\net7.0\StackAndQueues.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\bin\Debug\net7.0\StackAndQueues.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\bin\Debug\net7.0\StackAndQueues.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\obj\Debug\net7.0\StackAndQueues.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\obj\Debug\net7.0\StackAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\obj\Debug\net7.0\StackAndQueues.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\obj\Debug\net7.0\StackAndQueues.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\obj\Debug\net7.0\StackAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\obj\Debug\net7.0\StackAndQueues.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\obj\Debug\net7.0\refint\StackAndQueues.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\obj\Debug\net7.0\StackAndQueues.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\obj\Debug\net7.0\StackAndQueues.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\StackAndQueuesSol\StackAndQueues\obj\Debug\net7.0\ref\StackAndQueues.dll
