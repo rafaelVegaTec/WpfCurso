@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\bin\Debug\net7.0\MessagePrinter.exe
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\bin\Debug\net7.0\MessagePrinter.deps.json
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\bin\Debug\net7.0\MessagePrinter.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\bin\Debug\net7.0\MessagePrinter.dll
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\bin\Debug\net7.0\MessagePrinter.pdb
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\obj\Debug\net7.0\MessagePrinter.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\obj\Debug\net7.0\MessagePrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\obj\Debug\net7.0\MessagePrinter.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\obj\Debug\net7.0\MessagePrinter.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\obj\Debug\net7.0\MessagePrinter.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\obj\Debug\net7.0\MessagePrinter.dll
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\obj\Debug\net7.0\refint\MessagePrinter.dll
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\obj\Debug\net7.0\MessagePrinter.pdb
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\obj\Debug\net7.0\MessagePrinter.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Curso C# WPF\MessagePrinterSol\MessagePrinter\obj\Debug\net7.0\ref\MessagePrinter.dll
