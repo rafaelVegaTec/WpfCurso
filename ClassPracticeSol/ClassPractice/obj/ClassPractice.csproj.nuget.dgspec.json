@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\OneDrive\\Documentos\\Wpf Curso\\StructuredProgramingExampleSol\\StructuredProgramingExample\\StructuredProgramingExample.csproj": {}
+    "C:\\Users\\rafae\\OneDrive\\Documentos\\Wpf Curso\\ClassPracticeSol\\ClassPractice\\ClassPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\OneDrive\\Documentos\\Wpf Curso\\StructuredProgramingExampleSol\\StructuredProgramingExample\\StructuredProgramingExample.csproj": {
+    "C:\\Users\\rafae\\OneDrive\\Documentos\\Wpf Curso\\ClassPracticeSol\\ClassPractice\\ClassPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\Wpf Curso\\StructuredProgramingExampleSol\\StructuredProgramingExample\\StructuredProgramingExample.csproj",
-        "projectName": "StructuredProgramingExample",
-        "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\Wpf Curso\\StructuredProgramingExampleSol\\StructuredProgramingExample\\StructuredProgramingExample.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Documentos\\Wpf Curso\\ClassPracticeSol\\ClassPractice\\ClassPractice.csproj",
+        "projectName": "ClassPractice",
+        "projectPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\Wpf Curso\\ClassPracticeSol\\ClassPractice\\ClassPractice.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\Wpf Curso\\StructuredProgramingExampleSol\\StructuredProgramingExample\\obj\\",
+        "outputPath": "C:\\Users\\rafae\\OneDrive\\Documentos\\Wpf Curso\\ClassPracticeSol\\ClassPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",

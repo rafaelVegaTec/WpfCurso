@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\bin\Debug\net7.0\ClassPractice.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\bin\Debug\net7.0\ClassPractice.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\bin\Debug\net7.0\ClassPractice.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\bin\Debug\net7.0\ClassPractice.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\bin\Debug\net7.0\ClassPractice.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\obj\Debug\net7.0\ClassPractice.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\obj\Debug\net7.0\ClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\obj\Debug\net7.0\ClassPractice.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\obj\Debug\net7.0\ClassPractice.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\obj\Debug\net7.0\ClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\obj\Debug\net7.0\ClassPractice.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\obj\Debug\net7.0\refint\ClassPractice.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\obj\Debug\net7.0\ClassPractice.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\obj\Debug\net7.0\ClassPractice.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ClassPracticeSol\ClassPractice\obj\Debug\net7.0\ref\ClassPractice.dll
