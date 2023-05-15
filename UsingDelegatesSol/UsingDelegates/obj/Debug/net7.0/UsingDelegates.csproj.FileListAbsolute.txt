@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\bin\Debug\net7.0\UsingDelegates.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\bin\Debug\net7.0\UsingDelegates.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\bin\Debug\net7.0\UsingDelegates.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\bin\Debug\net7.0\UsingDelegates.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\bin\Debug\net7.0\UsingDelegates.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\obj\Debug\net7.0\UsingDelegates.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\obj\Debug\net7.0\UsingDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\obj\Debug\net7.0\UsingDelegates.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\obj\Debug\net7.0\UsingDelegates.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\obj\Debug\net7.0\UsingDelegates.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\obj\Debug\net7.0\UsingDelegates.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\obj\Debug\net7.0\refint\UsingDelegates.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\obj\Debug\net7.0\UsingDelegates.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\obj\Debug\net7.0\UsingDelegates.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesSol\UsingDelegates\obj\Debug\net7.0\ref\UsingDelegates.dll
