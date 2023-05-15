@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\bin\Debug\net7.0\AccessingShareData.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\bin\Debug\net7.0\AccessingShareData.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\bin\Debug\net7.0\AccessingShareData.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\bin\Debug\net7.0\AccessingShareData.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\bin\Debug\net7.0\AccessingShareData.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\obj\Debug\net7.0\AccessingShareData.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\obj\Debug\net7.0\AccessingShareData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\obj\Debug\net7.0\AccessingShareData.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\obj\Debug\net7.0\AccessingShareData.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\obj\Debug\net7.0\AccessingShareData.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\obj\Debug\net7.0\AccessingShareData.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\obj\Debug\net7.0\refint\AccessingShareData.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\obj\Debug\net7.0\AccessingShareData.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\obj\Debug\net7.0\AccessingShareData.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\AccessingShareDataSol\AccessingShareData\obj\Debug\net7.0\ref\AccessingShareData.dll
