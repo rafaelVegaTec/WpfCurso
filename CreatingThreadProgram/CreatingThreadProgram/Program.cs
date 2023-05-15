@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             //Hilos
             Thread t = new Thread(new ThreadStart(ThreadMethod));
@@ -24,6 +24,6 @@
                 Console.WriteLine($"Proceso de hilo: {i}");
                 Thread.Sleep(1000);
             }
-        }
+        }*/
     }
 }
