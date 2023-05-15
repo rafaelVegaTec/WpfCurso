@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\bin\Debug\net7.0\UsingTask.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\bin\Debug\net7.0\UsingTask.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\bin\Debug\net7.0\UsingTask.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\bin\Debug\net7.0\UsingTask.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\bin\Debug\net7.0\UsingTask.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\obj\Debug\net7.0\UsingTask.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\obj\Debug\net7.0\UsingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\obj\Debug\net7.0\UsingTask.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\obj\Debug\net7.0\UsingTask.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\obj\Debug\net7.0\UsingTask.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\obj\Debug\net7.0\UsingTask.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\obj\Debug\net7.0\refint\UsingTask.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\obj\Debug\net7.0\UsingTask.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\obj\Debug\net7.0\UsingTask.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingTaskSol\UsingTask\obj\Debug\net7.0\ref\UsingTask.dll
