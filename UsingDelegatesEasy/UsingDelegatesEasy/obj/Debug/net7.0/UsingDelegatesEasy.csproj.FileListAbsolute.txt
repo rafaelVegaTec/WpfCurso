@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\bin\Debug\net7.0\UsingDelegatesEasy.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\bin\Debug\net7.0\UsingDelegatesEasy.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\bin\Debug\net7.0\UsingDelegatesEasy.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\bin\Debug\net7.0\UsingDelegatesEasy.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\bin\Debug\net7.0\UsingDelegatesEasy.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\obj\Debug\net7.0\UsingDelegatesEasy.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\obj\Debug\net7.0\UsingDelegatesEasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\obj\Debug\net7.0\UsingDelegatesEasy.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\obj\Debug\net7.0\UsingDelegatesEasy.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\obj\Debug\net7.0\UsingDelegatesEasy.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\obj\Debug\net7.0\UsingDelegatesEasy.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\obj\Debug\net7.0\refint\UsingDelegatesEasy.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\obj\Debug\net7.0\UsingDelegatesEasy.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\obj\Debug\net7.0\UsingDelegatesEasy.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDelegatesEasy\UsingDelegatesEasy\obj\Debug\net7.0\ref\UsingDelegatesEasy.dll
