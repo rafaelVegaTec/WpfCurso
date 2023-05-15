@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\bin\Debug\net7.0\CreatingThreadProgram.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\bin\Debug\net7.0\CreatingThreadProgram.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\bin\Debug\net7.0\CreatingThreadProgram.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\bin\Debug\net7.0\CreatingThreadProgram.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\bin\Debug\net7.0\CreatingThreadProgram.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\obj\Debug\net7.0\CreatingThreadProgram.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\obj\Debug\net7.0\CreatingThreadProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\obj\Debug\net7.0\CreatingThreadProgram.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\obj\Debug\net7.0\CreatingThreadProgram.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\obj\Debug\net7.0\CreatingThreadProgram.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\obj\Debug\net7.0\CreatingThreadProgram.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\obj\Debug\net7.0\refint\CreatingThreadProgram.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\obj\Debug\net7.0\CreatingThreadProgram.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\obj\Debug\net7.0\CreatingThreadProgram.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingThreadProgram\CreatingThreadProgram\obj\Debug\net7.0\ref\CreatingThreadProgram.dll
