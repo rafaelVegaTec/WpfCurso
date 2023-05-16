@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\bin\Debug\net7.0\CreatingLargeNumberOfStrings.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\bin\Debug\net7.0\CreatingLargeNumberOfStrings.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\bin\Debug\net7.0\CreatingLargeNumberOfStrings.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\bin\Debug\net7.0\CreatingLargeNumberOfStrings.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\bin\Debug\net7.0\CreatingLargeNumberOfStrings.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\obj\Debug\net7.0\CreatingLargeNumberOfStrings.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\obj\Debug\net7.0\CreatingLargeNumberOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\obj\Debug\net7.0\CreatingLargeNumberOfStrings.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\obj\Debug\net7.0\CreatingLargeNumberOfStrings.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\obj\Debug\net7.0\CreatingLargeNumberOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\obj\Debug\net7.0\CreatingLargeNumberOfStrings.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\obj\Debug\net7.0\refint\CreatingLargeNumberOfStrings.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\obj\Debug\net7.0\CreatingLargeNumberOfStrings.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\obj\Debug\net7.0\CreatingLargeNumberOfStrings.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\CreatingLargeNumberOfStringsSol\CreatingLargeNumberOfStrings\obj\Debug\net7.0\ref\CreatingLargeNumberOfStrings.dll
