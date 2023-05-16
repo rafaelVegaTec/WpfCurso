@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\bin\Debug\net7.0\TypesAdvanced.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\bin\Debug\net7.0\TypesAdvanced.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\bin\Debug\net7.0\TypesAdvanced.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\bin\Debug\net7.0\TypesAdvanced.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\bin\Debug\net7.0\TypesAdvanced.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\obj\Debug\net7.0\TypesAdvanced.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\obj\Debug\net7.0\TypesAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\obj\Debug\net7.0\TypesAdvanced.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\obj\Debug\net7.0\TypesAdvanced.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\obj\Debug\net7.0\TypesAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\obj\Debug\net7.0\TypesAdvanced.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\obj\Debug\net7.0\refint\TypesAdvanced.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\obj\Debug\net7.0\TypesAdvanced.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\obj\Debug\net7.0\TypesAdvanced.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\TypesAdvancedSol\TypesAdvanced\obj\Debug\net7.0\ref\TypesAdvanced.dll
