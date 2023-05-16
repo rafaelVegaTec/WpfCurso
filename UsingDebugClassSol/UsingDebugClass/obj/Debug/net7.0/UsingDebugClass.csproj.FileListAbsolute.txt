@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\bin\Debug\net7.0\UsingDebugClass.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\bin\Debug\net7.0\UsingDebugClass.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\bin\Debug\net7.0\UsingDebugClass.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\bin\Debug\net7.0\UsingDebugClass.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\bin\Debug\net7.0\UsingDebugClass.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\obj\Debug\net7.0\UsingDebugClass.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\obj\Debug\net7.0\UsingDebugClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\obj\Debug\net7.0\UsingDebugClass.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\obj\Debug\net7.0\UsingDebugClass.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\obj\Debug\net7.0\UsingDebugClass.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\obj\Debug\net7.0\UsingDebugClass.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\obj\Debug\net7.0\refint\UsingDebugClass.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\obj\Debug\net7.0\UsingDebugClass.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\obj\Debug\net7.0\UsingDebugClass.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\UsingDebugClassSol\UsingDebugClass\obj\Debug\net7.0\ref\UsingDebugClass.dll
