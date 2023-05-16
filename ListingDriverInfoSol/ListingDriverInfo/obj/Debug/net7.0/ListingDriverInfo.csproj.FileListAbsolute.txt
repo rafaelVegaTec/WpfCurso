@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\bin\Debug\net7.0\ListingDriverInfo.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\bin\Debug\net7.0\ListingDriverInfo.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\bin\Debug\net7.0\ListingDriverInfo.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\bin\Debug\net7.0\ListingDriverInfo.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\bin\Debug\net7.0\ListingDriverInfo.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\obj\Debug\net7.0\ListingDriverInfo.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\obj\Debug\net7.0\ListingDriverInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\obj\Debug\net7.0\ListingDriverInfo.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\obj\Debug\net7.0\ListingDriverInfo.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\obj\Debug\net7.0\ListingDriverInfo.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\obj\Debug\net7.0\ListingDriverInfo.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\obj\Debug\net7.0\refint\ListingDriverInfo.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\obj\Debug\net7.0\ListingDriverInfo.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\obj\Debug\net7.0\ListingDriverInfo.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ListingDriverInfoSol\ListingDriverInfo\obj\Debug\net7.0\ref\ListingDriverInfo.dll
