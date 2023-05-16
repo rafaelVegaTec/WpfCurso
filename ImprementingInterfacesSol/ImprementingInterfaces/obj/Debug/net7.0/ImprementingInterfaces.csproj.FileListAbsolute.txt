@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\bin\Debug\net7.0\ImprementingInterfaces.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\bin\Debug\net7.0\ImprementingInterfaces.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\bin\Debug\net7.0\ImprementingInterfaces.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\bin\Debug\net7.0\ImprementingInterfaces.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\bin\Debug\net7.0\ImprementingInterfaces.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\obj\Debug\net7.0\ImprementingInterfaces.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\obj\Debug\net7.0\ImprementingInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\obj\Debug\net7.0\ImprementingInterfaces.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\obj\Debug\net7.0\ImprementingInterfaces.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\obj\Debug\net7.0\ImprementingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\obj\Debug\net7.0\ImprementingInterfaces.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\obj\Debug\net7.0\refint\ImprementingInterfaces.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\obj\Debug\net7.0\ImprementingInterfaces.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\obj\Debug\net7.0\ImprementingInterfaces.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\ImprementingInterfaces\obj\Debug\net7.0\ref\ImprementingInterfaces.dll

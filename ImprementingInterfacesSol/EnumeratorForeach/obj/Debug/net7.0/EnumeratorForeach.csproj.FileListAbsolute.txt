@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\bin\Debug\net7.0\EnumeratorForeach.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\bin\Debug\net7.0\EnumeratorForeach.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\bin\Debug\net7.0\EnumeratorForeach.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\bin\Debug\net7.0\EnumeratorForeach.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\bin\Debug\net7.0\EnumeratorForeach.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\obj\Debug\net7.0\EnumeratorForeach.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\obj\Debug\net7.0\EnumeratorForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\obj\Debug\net7.0\EnumeratorForeach.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\obj\Debug\net7.0\EnumeratorForeach.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\obj\Debug\net7.0\EnumeratorForeach.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\obj\Debug\net7.0\EnumeratorForeach.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\obj\Debug\net7.0\refint\EnumeratorForeach.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\obj\Debug\net7.0\EnumeratorForeach.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\obj\Debug\net7.0\EnumeratorForeach.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\ImprementingInterfacesSol\EnumeratorForeach\obj\Debug\net7.0\ref\EnumeratorForeach.dll
