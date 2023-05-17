@@ -1,0 +1,24 @@
+﻿<Window x:Class="WrapPanelWindows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WrapPanelWindows"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="10">
+        <WrapPanel Background="LightBlue" Width="200" Height="100">
+            <Button Width="200">Button 1</Button>
+            <Button>Button 2</Button>
+            <Button>Button 4</Button>
+            <Button>Button 3</Button>
+        </WrapPanel>
+        <Separator/> <!--Nos permite agregar una linea horizontal como separador-->
+        <Viewbox> <!--Nos permite ajustar nuestro contenido de manera dinamica-->
+            <StackPanel>
+                <TextBlock>Mi Contenido</TextBlock>
+                <TextBox></TextBox>
+            </StackPanel>
+        </Viewbox>
+    </StackPanel>
+</Window>

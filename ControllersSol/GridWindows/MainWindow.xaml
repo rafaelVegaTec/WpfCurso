@@ -1,0 +1,26 @@
+﻿<Window x:Class="GridWindows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GridWindows"
+        mc:Ignorable="d" Title="MainWindow" Height="450" Width="800">
+    <Grid VerticalAlignment="Top" HorizontalAlignment="Stretch" ShowGridLines="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock FontWeight="Bold" Grid.Row="0" Grid.Column="0">Titulo 1</TextBlock>
+        <TextBlock FontWeight="Bold" Grid.Row="0" Grid.Column="1">Titulo 2</TextBlock>
+        <TextBlock FontWeight="Bold" Grid.Row="0" Grid.Column="2">Titulo 3</TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="0">Perro</TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="1">Gato</TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="2">Hipopotamo</TextBlock>
+    </Grid>
+</Window>

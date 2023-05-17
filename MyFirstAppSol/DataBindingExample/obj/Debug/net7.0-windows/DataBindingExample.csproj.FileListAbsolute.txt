@@ -1,0 +1,42 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\bin\Debug\net7.0-windows\DataBindingExample.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\bin\Debug\net7.0-windows\DataBindingExample.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\bin\Debug\net7.0-windows\DataBindingExample.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\bin\Debug\net7.0-windows\DataBindingExample.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\bin\Debug\net7.0-windows\DataBindingExample.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample_MarkupCompile.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample_MarkupCompile.lref
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.g.resources
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\refint\DataBindingExample.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\ref\DataBindingExample.dll
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\bin\Debug\net7.0-windows\DataBindingExample.exe
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\bin\Debug\net7.0-windows\DataBindingExample.deps.json
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\bin\Debug\net7.0-windows\DataBindingExample.runtimeconfig.json
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\bin\Debug\net7.0-windows\DataBindingExample.dll
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\bin\Debug\net7.0-windows\DataBindingExample.pdb
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample_MarkupCompile.cache
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample_MarkupCompile.lref
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.g.resources
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.AssemblyInfo.cs
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.dll
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\refint\DataBindingExample.dll
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.pdb
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\DataBindingExample.genruntimeconfig.cache
+C:\Users\rafae\Documents\MyFirstAppSol\DataBindingExample\obj\Debug\net7.0-windows\ref\DataBindingExample.dll

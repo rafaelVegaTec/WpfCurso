@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\bin\Debug\net7.0\ExecutingSql.exe
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\bin\Debug\net7.0\ExecutingSql.deps.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\bin\Debug\net7.0\ExecutingSql.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\bin\Debug\net7.0\ExecutingSql.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\bin\Debug\net7.0\ExecutingSql.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\obj\Debug\net7.0\ExecutingSql.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\obj\Debug\net7.0\ExecutingSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\obj\Debug\net7.0\ExecutingSql.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\obj\Debug\net7.0\ExecutingSql.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\obj\Debug\net7.0\ExecutingSql.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\obj\Debug\net7.0\ExecutingSql.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\obj\Debug\net7.0\refint\ExecutingSql.dll
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\obj\Debug\net7.0\ExecutingSql.pdb
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\obj\Debug\net7.0\ExecutingSql.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Wpf Curso\SqlConnectionExampleSol\ExecutingSql\obj\Debug\net7.0\ref\ExecutingSql.dll
