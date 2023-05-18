@@ -3,37 +3,45 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layout", "Controllers\Layout.csproj", "{0F43E185-F3AA-4B78-B61B-4FB7E56EB6CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Layout", "Controllers\Layout.csproj", "{0F43E185-F3AA-4B78-B61B-4FB7E56EB6CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackPanelWindows", "StackPanelWindows\StackPanelWindows.csproj", "{F6DB91FC-93F2-45BF-9281-4D19F7CF105F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackPanelWindows", "StackPanelWindows\StackPanelWindows.csproj", "{F6DB91FC-93F2-45BF-9281-4D19F7CF105F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridWindows", "GridWindows\GridWindows.csproj", "{65A76900-3AE8-41BE-ACEF-FC345C6E242C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridWindows", "GridWindows\GridWindows.csproj", "{65A76900-3AE8-41BE-ACEF-FC345C6E242C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasWindows", "CanvasWindows\CanvasWindows.csproj", "{CCA24CA6-F17C-465D-A88E-66B5075C2477}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanvasWindows", "CanvasWindows\CanvasWindows.csproj", "{CCA24CA6-F17C-465D-A88E-66B5075C2477}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulletDecoratorWindows", "BulletDecoratorWindows\BulletDecoratorWindows.csproj", "{E66AF839-5473-4BE4-B27E-6B4FD6F7AD83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulletDecoratorWindows", "BulletDecoratorWindows\BulletDecoratorWindows.csproj", "{E66AF839-5473-4BE4-B27E-6B4FD6F7AD83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockPanleWindows", "DockPanleWindows\DockPanleWindows.csproj", "{3D0E6A72-B2AE-41F0-BFCA-731BFD32EC12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DockPanleWindows", "DockPanleWindows\DockPanleWindows.csproj", "{3D0E6A72-B2AE-41F0-BFCA-731BFD32EC12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpanderWindows", "ExpanderWindows\ExpanderWindows.csproj", "{21DF1E6D-EFB9-4C2A-802B-8CAACE5D79AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpanderWindows", "ExpanderWindows\ExpanderWindows.csproj", "{21DF1E6D-EFB9-4C2A-802B-8CAACE5D79AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridSplitterWindows", "GridSplitterWindows\GridSplitterWindows.csproj", "{AF257EB7-7298-481C-9346-8EA17E676C00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GridSplitterWindows", "GridSplitterWindows\GridSplitterWindows.csproj", "{AF257EB7-7298-481C-9346-8EA17E676C00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBoxWindows", "GroupBoxWindows\GroupBoxWindows.csproj", "{EEE3EC33-80F1-4D32-800C-21482D66C2B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupBoxWindows", "GroupBoxWindows\GroupBoxWindows.csproj", "{EEE3EC33-80F1-4D32-800C-21482D66C2B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThumdWindows", "ThumdWindows\ThumdWindows.csproj", "{C3F1146F-574B-4798-ADA1-A4AA881C004E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThumdWindows", "ThumdWindows\ThumdWindows.csproj", "{C3F1146F-574B-4798-ADA1-A4AA881C004E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapPanelWindows", "WrapPanelWindows\WrapPanelWindows.csproj", "{3AA43DB5-BEF5-4559-99A2-03A0027251B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WrapPanelWindows", "WrapPanelWindows\WrapPanelWindows.csproj", "{3AA43DB5-BEF5-4559-99A2-03A0027251B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtomWindows", "ButtomWindows\ButtomWindows.csproj", "{A1564548-AB25-4B89-8196-832ACD7EA794}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ButtomWindows", "ButtomWindows\ButtomWindows.csproj", "{A1564548-AB25-4B89-8196-832ACD7EA794}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridWindows", "DataGridWindows\DataGridWindows.csproj", "{53044242-B23D-4396-BD9D-1239AE120F93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataGridWindows", "DataGridWindows\DataGridWindows.csproj", "{53044242-B23D-4396-BD9D-1239AE120F93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatePickerWindows", "DatePickerWindows\DatePickerWindows.csproj", "{4AF03D0E-64EA-48B7-9FA2-F4F6B69D8AB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatePickerWindows", "DatePickerWindows\DatePickerWindows.csproj", "{4AF03D0E-64EA-48B7-9FA2-F4F6B69D8AB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenusWindows", "MenusWindows\MenusWindows.csproj", "{9BD4FD62-609C-4EC1-93B3-9F29273F9CF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MenusWindows", "MenusWindows\MenusWindows.csproj", "{9BD4FD62-609C-4EC1-93B3-9F29273F9CF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBoxWindows", "CheckBoxWindows\CheckBoxWindows.csproj", "{FC733DA9-2E3E-42FA-9644-9F7827147DDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckBoxWindows", "CheckBoxWindows\CheckBoxWindows.csproj", "{FC733DA9-2E3E-42FA-9644-9F7827147DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameWindows", "FrameWindows\FrameWindows.csproj", "{F437934B-D262-4C5A-B4BA-1171A3B780A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlesInformacionUsuario", "ControlesInformacionUsuario\ControlesInformacionUsuario.csproj", "{027E5302-C529-40F4-B0C1-F10CE6812723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documentos", "Documentos\Documentos.csproj", "{CE52DB31-08C7-4E2B-889E-D55E2FBEFF93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlesEntradda", "ControlesEntradda\ControlesEntradda.csproj", "{85BF4010-2BF4-43C1-B998-09A4B888929C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +113,22 @@ Global
 		{FC733DA9-2E3E-42FA-9644-9F7827147DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC733DA9-2E3E-42FA-9644-9F7827147DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC733DA9-2E3E-42FA-9644-9F7827147DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F437934B-D262-4C5A-B4BA-1171A3B780A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F437934B-D262-4C5A-B4BA-1171A3B780A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F437934B-D262-4C5A-B4BA-1171A3B780A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F437934B-D262-4C5A-B4BA-1171A3B780A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027E5302-C529-40F4-B0C1-F10CE6812723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027E5302-C529-40F4-B0C1-F10CE6812723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027E5302-C529-40F4-B0C1-F10CE6812723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027E5302-C529-40F4-B0C1-F10CE6812723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE52DB31-08C7-4E2B-889E-D55E2FBEFF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE52DB31-08C7-4E2B-889E-D55E2FBEFF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE52DB31-08C7-4E2B-889E-D55E2FBEFF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE52DB31-08C7-4E2B-889E-D55E2FBEFF93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85BF4010-2BF4-43C1-B998-09A4B888929C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85BF4010-2BF4-43C1-B998-09A4B888929C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85BF4010-2BF4-43C1-B998-09A4B888929C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85BF4010-2BF4-43C1-B998-09A4B888929C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

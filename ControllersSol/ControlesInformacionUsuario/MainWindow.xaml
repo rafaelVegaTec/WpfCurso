@@ -1,0 +1,64 @@
+﻿<Window x:Class="ControlesInformacionUsuario.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlesInformacionUsuario"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <!--ACCES TEXT-->
+        <Button Click="Edit_Click">
+            <AccessText>_Edit</AccessText>
+            <!--_ nos permite definir una tecla de acceso rapido-->
+        </Button>
+        <Button Click="cur_Click">_Cut_More</Button>
+
+        <!--LABEL-->
+        <TextBox Name="MyTextBox" Width="100"/>
+        <Label Target="{Binding ElementName=MyTextBox}">_File</Label>
+
+        <TextBox Name="MyOtherTextBox" Width="50" Height="20"/>
+        <Label Width="200" HorizontalAlignment="Left"
+               Target="{Binding ElementName=MyOtherTextBox}">
+            <AccessText TextWrapping="WrapWithOverflow">
+                _Another long piece of text that requires text wrapping goes here
+            </AccessText>
+        </Label>
+
+        <!--POPUP-->
+        <Button Name="btnOpenPopUp" Click="btnOpenPopUp_Click">Open PopUp</Button>
+        <Popup Margin="10" Name="MyPopUp" HorizontalAlignment="Left"
+               VerticalAlignment="Top" Placement="Center">
+            <Border BorderThickness="5" BorderBrush="Blue">
+                <TextBlock Name="McTextBlock" Background="LightBlue">
+                    This is pop text
+                </TextBlock>
+            </Border>
+        </Popup>
+
+        <!--PROGRESSBAR-->
+        <Border Margin="10">
+            <ProgressBar Value="75" Height="20" Name="myProgressBar"/>
+        </Border>
+
+        <!--STATUS BAR-->
+        <StatusBar Name="sbar" VerticalAlignment="Bottom" Background="LightGreen">
+            <StatusBarItem>
+                <TextBlock>
+                    <TextBlock.ToolTip>este es un tooltip</TextBlock.ToolTip>
+                    File</TextBlock>
+            </StatusBarItem>
+            <StatusBarItem>
+                <ProgressBar Value="75" Height="20" Width="100"/>
+            </StatusBarItem>
+            <Separator/>
+            <StatusBarItem>
+                <TextBlock>Online</TextBlock>
+            </StatusBarItem>
+            <StatusBarItem>
+                <Image Source="House icon´png" Width="16" Height="16"/>
+            </StatusBarItem>
+        </StatusBar>
+    </StackPanel>
+</Window>

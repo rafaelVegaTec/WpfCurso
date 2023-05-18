@@ -5,11 +5,45 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CheckBoxWindows"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="600" Width="800">
     <StackPanel Margin="10">
         <TextBlock Text="CHECKBOX" Margin="0,20,0,10" FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
         <TextBlock x:Name="txtMyTextBlock1" Text="Sin Seleccion aun."/>
         <CheckBox x:Name="chbMyCheckBox" Margin="20" Content="CheckBox de 3 estado" IsThreeState="True"
                   Checked="chbMyCheckBox_Checked" Unchecked="chbMyCheckBox_Unchecked" Indeterminate="chbMyCheckBox_Indeterminate"/>
+        
+        <TextBlock Text="COMBOBOX" Margin="0,20,0,10" FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
+        <TextBlock Text="{Binding ElementName=cmbMyComboBox, Path=SelectedItem}"/>
+        <ComboBox Name="cmbMyComboBox" Text="My Cities" IsEditable="True" IsReadOnly="False"/>
+
+        <TextBlock Text="LISTBOX" Margin="0,20,0,10" FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
+        <TextBlock Name="TxbMyTextBlock2" Text="Sin seleccion aun."/>
+        <ListBox Name="lsbMyListBox" Width="100" Height="55" SelectionChanged="lsbMyListBox_SelectionChanged" SelectionMode="Single">
+            <ListBoxItem>Item 1</ListBoxItem>
+            <ListBoxItem>Item 1</ListBoxItem>
+            <ListBoxItem>Item 1</ListBoxItem>
+            <ListBoxItem>Item 1</ListBoxItem>
+            <ListBoxItem>Item 1</ListBoxItem>
+            <ListBoxItem>Item 1</ListBoxItem>
+            <ListBoxItem>Item 1</ListBoxItem>
+            <ListBoxItem>Item 1</ListBoxItem>
+            <ListBoxItem>Item 1</ListBoxItem>
+        </ListBox>
+
+        <TextBlock Text="RADIOBUTTON" Margin="0,20,0,10" FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
+        <TextBlock Name="txbMyTextBlock3">Sin seleccion aun.</TextBlock>
+        <StackPanel Orientation="Horizontal">
+            <RadioButton GroupName="ColorGroup" Checked="RadioButton_Checked">Red</RadioButton>
+            <RadioButton GroupName="ColorGroup" Checked="RadioButton_Checked">Blue</RadioButton>
+            <RadioButton GroupName="NumberGroup" Checked="RadioButton_Checked">1</RadioButton>
+            <RadioButton GroupName="NumberGroup" Checked="RadioButton_Checked">2</RadioButton>
+        </StackPanel>
+
+        <TextBlock Text="RADIOBUTTON" Margin="0,20,0,10" FontSize="18" FontWeight="Bold" Foreground="BlueViolet"/>
+        <StackPanel Orientation="Horizontal">
+            <Slider Name="sldMySlider1" Width="200" Orientation="Horizontal" HorizontalAlignment="Left" Value="50" Minimum="0" Maximum="100"
+                    SmallChange="1" LargeChange="10" TickPlacement="BottomRight" TickFrequency="10"/>
+            <Rectangle Fill="Blue" HorizontalAlignment="Left" Width="{Binding ElementName=sldMySlider1,Path=Value}"/>
+        </StackPanel>
     </StackPanel>
 </Window>

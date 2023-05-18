@@ -39,5 +39,19 @@ namespace CheckBoxWindows
         {
             txtMyTextBlock1.Text = "The checkBox is in the indeterminate state.";
         }
+
+        private void lsbMyListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            TxbMyTextBlock2.Text = $"You selected {(lsbMyListBox.SelectedItem as ListBoxItem).Content.ToString()}.";
+        }
+
+        private void RadioButton_Checked(object sender, RoutedEventArgs e)
+        {
+            RadioButton? radioButton = sender as RadioButton;
+            if (radioButton is not null)
+            {
+                txbMyTextBlock3.Text = $"Selecionaste: {radioButton.Content.ToString()}.";
+            }
+        }
     }
 }
